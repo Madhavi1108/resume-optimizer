@@ -223,6 +223,3 @@ Base URL: `http://localhost:8000/api`
 - Unit/integration tests and CI pipeline
 - Dockerized local and production setup
 
-## License
-
-Add your preferred license (MIT/Apache-2.0/etc.) in a `LICENSE` file.
