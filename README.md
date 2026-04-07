@@ -9,7 +9,7 @@ An AI-powered full-stack application that tailors resumes to a target job descri
 - exporting final output as PDF or DOCX.
 
 ## Tech Stack
-
+ 
 - **Frontend:** React, Vite, Tailwind CSS, Framer Motion, Axios, React Router
 - **Backend:** FastAPI, Uvicorn, SQLAlchemy, Pydantic
 - **AI:** Google Gemini (`google-genai`)
