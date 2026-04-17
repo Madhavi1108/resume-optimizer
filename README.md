@@ -6,7 +6,7 @@ An AI-powered full-stack application that tailors resumes to a target job descri
 - asking targeted follow-up questions,
 - optionally selecting relevant GitHub projects,
 - generating an optimized resume,
-- exporting final output as PDF or DOCX.
+- exporting final output as PDF or DOCX. 
 
 ## Tech Stack
  
