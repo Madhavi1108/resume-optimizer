@@ -11,7 +11,7 @@ An AI-powered full-stack application that tailors resumes to a target job descri
 ## Tech Stack
  
 - **Frontend:** React, Vite, Tailwind CSS, Framer Motion, Axios, React Router
-- **Backend:** FastAPI, Uvicorn, SQLAlchemy, Pydantic
+- **Backend:** FastAPI, Uvicorn, SQLAlchemy, Pydantic 
 - **AI:** Google Gemini (`google-genai`)
 - **Document Processing:** `pdfplumber`, `fpdf2`, `python-docx` 
 - **Database:** SQLite (`sql_app.db`)
